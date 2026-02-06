@@ -11,3 +11,18 @@ Futuras Funcionalidades:
 - [ ] Adicionar 4 ataques
 - [ ] Adicionar velocidade e mecânica de velocidade 
 - [ ] Usar API para automatizar os atributos dos pokemons
+
+## 📋 Como Usar
+
+### Pré-requisitos
+Ter o Python instalado na sua máquina. Pode descarregar em [python.org](https://www.python.org/).
+
+### Instalação
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/TiagoGlueck/Batalha-Pokemon-.git](https://github.com/TiagoGlueck/Batalha-Pokemon-.git)
+
+### Inicialização
+
+Abra o terminal dentro da pasta e execute:
+python Main.py
