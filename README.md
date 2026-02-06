@@ -25,4 +25,5 @@ Ter o Python instalado na sua máquina. Pode descarregar em [python.org](https:/
 ### Inicialização
 
 Abra o terminal dentro da pasta e execute:
+```bash
 python Main.py
